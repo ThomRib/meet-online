@@ -1,0 +1,104 @@
+.btn-ungu-biru {
+    background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 51%, #fc00ff 100%)
+}
+
+.login {
+    max-width: 395px;
+}
+
+.btn-light {
+    background-image: linear-gradient(to right, #ECE9E6 0%, #FFFFFF 51%, #ECE9E6 100%)
+}
+
+.btn-ungu {
+    background-image: linear-gradient(to right, #DA22FF 0%, #9733EE 51%, #DA22FF 100%)
+}
+
+.btn-info {
+    background-image: linear-gradient(to right, #56CCF2 0%, #2F80ED 51%, #56CCF2 100%)
+}
+
+.btn-success {
+    background-image: linear-gradient(to right, #0edb8d 0%, #41b685 51%, #1cd8a9 100%)
+}
+
+.btn-warning {
+    /* background-image: linear-gradient(to right, #FF8008 0%, #FFC837 51%, #FF8008 100%) */
+    background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%);
+}
+
+.btn-danger {
+    background-image: linear-gradient(to right, #f857a6 0%, #ff5858 51%, #f857a6 100%)
+    /* background-image: linear-gradient(to right, #EB3349 0%, #F45C43 51%, #EB3349 100%) */
+}
+
+.btn-primary {
+    background-image: linear-gradient(to right, #00c6ff 0%, #0072ff 51%, #00c6ff 100%)
+}
+
+.btn-pink {
+    background-image: linear-gradient(to right, #f857a6 0%, #ff5858 51%, #f857a6 100%)
+}
+
+.btn-primary,
+.btn-danger,
+.btn-warning,
+.btn-success,
+.btn-info,
+.btn-ungu,
+.btn-light,
+.btn-pink,
+.btn-ungu-biru {
+    border: none;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    display: block;
+}
+
+.btn-primary:hover,
+.btn-danger:hover,
+.btn-warning:hover,
+.btn-success:hover,
+.btn-info:hover,
+.btn-ungu:hover,
+.btn-light:hover,
+.btn-pink:hover,
+.btn-ungu-biru:hover {
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.bg-danger {
+    background-image: linear-gradient(to right, #f857a6 0%, #ff5858 51%, #f857a6 100%)
+}
+
+.bg-success {
+    background-image: linear-gradient(to right, #0edb8d 0%, #41b685 51%, #1cd8a9 100%)
+}
+
+.bg-ungu-biru {
+    background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 51%, #fc00ff 100%)
+}
+
+.bg-ungu {
+    background-image: linear-gradient(to right, #DA22FF 0%, #9733EE 51%, #DA22FF 100%)
+}
+
+.bg-info {
+    background-image: linear-gradient(to right, #56CCF2 0%, #2F80ED 51%, #56CCF2 100%)
+}
+
+.bg-warning {
+    background-image: linear-gradient(to right, #FF8008 0%, #FFC837 51%, #FF8008 100%)
+}
+
+.bg-primary {
+    background-image: linear-gradient(to right, #00c6ff 0%, #0072ff 51%, #00c6ff 100%)
+}
+
+.bg-pink {
+    background-image: linear-gradient(to right, #f857a6 0%, #ff5858 51%, #f857a6 100%)
+}
